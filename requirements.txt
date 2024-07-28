@@ -1,0 +1,3 @@
+PythonTurtle-0.3.2
+uuid-1.30
+matplotlib
